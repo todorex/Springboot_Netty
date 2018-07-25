@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+# IDEA
+.idea
+# maven
+netty_server/.mvn
+
+
+
