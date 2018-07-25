@@ -1,0 +1,2 @@
+# Springboot_Netty
+在SpringBoot的基础上整合Netty实现收发数据，并将数据存储到数据库
