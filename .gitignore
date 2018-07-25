@@ -4,5 +4,8 @@
 # maven
 netty_server/.mvn
 
+# project
+netty_server/target
+
 
 
