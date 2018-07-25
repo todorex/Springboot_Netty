@@ -3,7 +3,7 @@
 
 ## 功能
 对接telnet测试以及其他TCP客户端（如下位机）
-## How to use
+## 使用
 1. 利用IDE（IDEA）或者 Maven运行 com.todorex.SpringbootNettyApplication
     ```
     $ mvn spring-boot:run
