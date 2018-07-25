@@ -22,7 +22,7 @@
         <!-- 必须的（1 required） -->
         <!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://47.99.33.200:3306/springboot_netty"
+                        connectionURL="jdbc:mysql://localhost:3306/springboot_netty"
                         userId="root" password="root">
         </jdbcConnection>
 
